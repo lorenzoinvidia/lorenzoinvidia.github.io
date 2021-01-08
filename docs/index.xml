@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>\x90\x90</title>
+    <link>https://lorenzoinvidia.github.io/</link>
+    <description>Recent content on \x90\x90</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lorenzoinvidia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>whoami</title>
+      <link>https://lorenzoinvidia.github.io/about/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lorenzoinvidia.github.io/about/</guid>
+      <description>I am an Italian security researcher addicted to low level languages, exploit development and reverse engineering.
+I&amp;rsquo;ve created this space to share my research and experiments, involving code injection, defense evasion, lateral movement and persistence.
+I like CTFs, so expect some (nice) writeups too.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://lorenzoinvidia.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lorenzoinvidia.github.io/posts/hello-world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
